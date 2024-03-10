@@ -1,5 +1,5 @@
 # このDIYプロジェクトの目的
-このベビージム（数ヶ月前に自作したもの）を改良する。  
+このベビージム（数ヶ月前に自作したもの）を改良する。<br>
 ※横方向に渡している棒（以下「ポール」）は、Φ30の木製の丸棒
 
 <img src="1.jpg" width="500">
@@ -18,27 +18,27 @@
 
 # 検討の記録
 ## 折りめる構造の検討 (2024.3.9)
-一方向のみの回転を許すようなストッパーを付ける。  
+一方向のみの回転を許すようなストッパーを付ける。<br>
 強度が懸念。
 
 <img src="2.jpg" width="500">
 
-ここまで考えてみて、世の中的なベビージムがどうやっているかを調べてみた。  
-世の中的には、[紐を張ってる形式](https://www.etsy.com/jp/listing/1640807710/montessori-wooden-baby-gym-natural?external=1&rec_type=ad&ref=landingpage_similar_listing_top-3&pro=1&frs=1&plkey=3dd2038aff6b9c6f574c5c438d608b910f611f71%3A1640807710)が多い。  
+ここまで考えてみて、世の中的なベビージムがどうやっているかを調べてみた。<br>
+世の中的には、[紐を張ってる形式](https://www.etsy.com/jp/listing/1640807710/montessori-wooden-baby-gym-natural?external=1&rec_type=ad&ref=landingpage_similar_listing_top-3&pro=1&frs=1&plkey=3dd2038aff6b9c6f574c5c438d608b910f611f71%3A1640807710)が多い。<br>
 この形式は「見た目的にどうかなあ」と思って避けて検討していたが、デザインを工夫すれば気にならなくなるかもしれない。
 
 ## 折りたみ回転軸の構造 (2024.3.9)
-まずは下図のように折りたたみの回転軸の構造を考えてみたが、複雑すぎる気がする。  
+まずは下図のように折りたたみの回転軸の構造を考えてみたが、複雑すぎる気がする。<br>
 専用のボスを作るために、3Dプリンターが必要。<br>
 青い部品は、Φ30軸用カラー。見た目的にイマイチな気がしている。
 
 <img src="3.jpg" width="500">
 
-ここまで考えてみて、世の中的なベビージムがどうやっているかを調べてみた。  
+ここまで考えてみて、世の中的なベビージムがどうやっているかを調べてみた。<br>
 結局、世の中的にはかなりシンプルな形式が用いられていた。
 - [ボルトを回転軸にしている形式](https://www.etsy.com/jp/listing/1640807710/montessori-wooden-baby-gym-natural?external=1&rec_type=ad&ref=landingpage_similar_listing_top-1&pro=1&frs=1&plkey=e77f4d6c4896cc6a23491fc2e23cdcd50e9a7335%3A1640807710) ... そうだよね、これでもいけるよね。って思った
 - [ポールを回転軸にしている形式](https://www.etsy.com/jp/listing/1349984723/baby-play-gym-activity-center-natural?external=1&rec_type=ad&ref=landingpage_similar_listing_top-4&pro=1&plkey=06fafa923d1802831c22ff3be7c3bb853863c492%3A1349984723) ... 全体が平行四辺形に曲がることは、そんなに気にしていないっぽい
 
 全体が平行四辺形に変形してしまうことを防ぐために、ポールの根本構造をゴツくすることを考えたが、世の中に出回っている物は、そこはあまり気にしていない模様。
-なので、おそらく実用性の問題は出ないのだろう。  
+なので、おそらく実用性の問題は出ないのだろう。<br>
 私も気にしないことにしようと思う。
